@@ -4,7 +4,7 @@ public class MenuItem extends MenuComponent{
     boolean vegetarian;
     double price;
 
-    public MenuItem(String name,
+    public MenuItem (String name,
     String description,
     boolean vegetarian,
     double price){
